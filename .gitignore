@@ -1,0 +1,11 @@
+*.zip
+*.pyc
+__pycache__/
+env/
+start.sh
+migrations/
+db.sqlite3
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
